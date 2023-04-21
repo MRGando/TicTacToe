@@ -4,3 +4,10 @@
 
 i was bored and made this game :) 
  but this time i preferd to work with webpack5 - kind of liked it .
+ 
+ #techs
+ 
+ - HTML5 
+ - CSS3
+ - JavaScript
+ - Webpack5 lib
